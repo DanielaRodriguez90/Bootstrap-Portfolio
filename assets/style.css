@@ -32,9 +32,10 @@ nav{
     color: #777777;
     font-size: 9px;
     padding: 20px;
-    margin-top:60px;
+    margin-top: 260px;
     border-top: 10px solid #4aaaa5;
     text-align: center;
+    position: relative;
 }
 
 h3{
